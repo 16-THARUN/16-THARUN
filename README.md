@@ -30,8 +30,7 @@ Detail-oriented and analytical Data Science and AI postgraduate student with a s
 * **Technologies:** FastAPI (Async), PostgreSQL, SQLAlchemy 2.0, Alembic, Scikit-Learn, HTMX, Tailwind CSS
 * Engineered an async-first CRM platform designed to handle high-concurrency partial DOM swaps with sub-2KB client-side JavaScript.
 * Built a live machine learning pipeline using a trained Scikit-Learn `GradientBoostingClassifier` to score and rank leads in real time based on engagement metadata.
-* Maintained data schema integrity by designing and deploying versioned, automated database migrations using Alembic.
-* 
+* Maintained data schema integrity by designing and deploying versioned, automated database migrations using Alembic. 
 ### 🤖 Coding LLM Development
 * **Technologies:** Python, PyTorch, Google Colab, Transformers
 * Designed and trained a specialized Large Language Model (LLM) fine-tuned for code synthesis and autocomplete tasks.
