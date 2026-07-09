@@ -65,18 +65,17 @@ Detail-oriented and analytical Data Science and AI postgraduate student with a s
   * **Performance:** 65%
 
 ---
+### 💼 Certifications & Professional Development
+* **CodeChef — Verified Engineering Credentials:**
+  * **Python with Beginner DSA** (Roadmap Completion | ID: `blabf77`)[cite: 13]
+  * **Practice Basic Math** (ID: `8ela2ca`)[cite: 14]
+  * **Practice Strings** (ID: `6d4813e`)[cite: 15]
+  * **500 to 1000 Difficulty Rating** (ID: `6132bcb`)[cite: 16]
+  * **Problem solving in Python** (ID: `b661573`)[cite: 17]
+  * **Practice Python** (ID: `bd45bc2`)[cite: 18]
+  * **Learn Python Programming** (ID: `eb6d346`)[cite: 19]
+* **Industry Credentials:** IBM SkillsBuild (Technical Upskilling) | Wadhwani Foundation (Career Readiness) | Recassar (Technical Training)[cite: 12]
 
-## 💼 Experience & Certifications
-
-### Professional Experience
-* **Mannatt Global Services** — *Automation Testing Intern (30 Days)*
-  * Gained hands-on experience executing test scripts, analyzing application codebases, and identifying software bugs to ensure modern quality standards.
-
-### Certifications & Professional Development
-* **IBM SkillsBuild:** Technical Upskilling and Architecture Coursework
-* **Wadhwani Foundation:** Career Readiness and Core Professional Skills
-* **Recassar:** Specialized Technical Training and Practical Logic Models
-* **CodeChef:** Learn Python Programming (Certificate ID: `eb6d346`)
 ---
 
 ## 🌟 Core Competencies & Interests
@@ -84,5 +83,3 @@ Detail-oriented and analytical Data Science and AI postgraduate student with a s
 - **Soft Skills:** Time Management, Team Leadership, Effective Communication, Continuous Learning
 - **Hobbies:** Video Editing, Strategic Gaming, Technical Reading, Yoga, Gym Workouts, Sports
 
----
-<p align="center">⭐️ Custom designed for a clean GitHub presence. Let's connect!</p>
